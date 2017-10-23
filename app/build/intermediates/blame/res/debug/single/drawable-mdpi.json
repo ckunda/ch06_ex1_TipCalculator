@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_search.png",
+        "source": "/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

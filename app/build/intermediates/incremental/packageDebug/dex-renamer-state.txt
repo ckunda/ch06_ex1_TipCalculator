@@ -1,0 +1,7 @@
+#Mon Oct 23 10:10:54 PDT 2017
+base.0=/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3084a46e534eb191a90f80ddfdda2c0843afe679
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_723ff83622961aa5fc7d902f076a02aadcefbb11/classes.dex
+base.1=/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_723ff83622961aa5fc7d902f076a02aadcefbb11
+file.0=/Users/ckunda/Documents/SacCity/CISP362/ch06_ex1_TipCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3084a46e534eb191a90f80ddfdda2c0843afe679/classes.dex
